@@ -988,284 +988,284 @@ Date,Vis,VG,Home,HG,OT,Att.,LOG,Notes,Game HTML,Slashing Calls in Game,Total Sla
 2018-03-01,Columbus Blue Jackets,2.0,Los Angeles Kings,5.0,,,2:25,,https://www.hockey-reference.com/boxscores/201803010LAK.html,1.0,1029.0
 2018-03-01,Carolina Hurricanes,4.0,Philadelphia Flyers,1.0,,,2:21,,https://www.hockey-reference.com/boxscores/201803010PHI.html,1.0,1030.0
 2018-03-01,Chicago Blackhawks,2.0,San Jose Sharks,7.0,,,2:26,,https://www.hockey-reference.com/boxscores/201803010SJS.html,0.0,1030.0
-2018-03-02,Columbus Blue Jackets,2,Anaheim Ducks,4,,,2:37,,https://www.hockey-reference.com/boxscores/201803020ANA.html,2.0,1032.0
-2018-03-02,New Jersey Devils,1,Carolina Hurricanes,3,,,2:26,,https://www.hockey-reference.com/boxscores/201803020CAR.html,0.0,1032.0
-2018-03-02,New York Rangers,3,Calgary Flames,1,,,2:36,,https://www.hockey-reference.com/boxscores/201803020CGY.html,0.0,1032.0
-2018-03-02,Minnesota Wild,1,Colorado Avalanche,7,,,2:31,,https://www.hockey-reference.com/boxscores/201803020COL.html,1.0,1033.0
-2018-03-02,Buffalo Sabres,1,Florida Panthers,4,,,2:31,,https://www.hockey-reference.com/boxscores/201803020FLA.html,2.0,1035.0
-2018-03-02,Montreal Canadiens,6,New York Islanders,3,,,2:27,,https://www.hockey-reference.com/boxscores/201803020NYI.html,2.0,1037.0
-2018-03-02,Nashville Predators,4,Vancouver Canucks,3,OT,,2:36,,https://www.hockey-reference.com/boxscores/201803020VAN.html,0.0,1037.0
-2018-03-02,Ottawa Senators,5,Vegas Golden Knights,4,,,2:30,,https://www.hockey-reference.com/boxscores/201803020VEG.html,0.0,1037.0
-2018-03-02,Detroit Red Wings,3,Winnipeg Jets,4,,,2:33,,https://www.hockey-reference.com/boxscores/201803020WPG.html,2.0,1039.0
-2018-03-03,Ottawa Senators,1,Arizona Coyotes,2,,,2:23,,https://www.hockey-reference.com/boxscores/201803030ARI.html,0.0,1039.0
-2018-03-03,Montreal Canadiens,1,Boston Bruins,2,OT,,2:41,,https://www.hockey-reference.com/boxscores/201803030BOS.html,1.0,1040.0
-2018-03-03,St. Louis Blues,2,Dallas Stars,3,OT,,2:48,,https://www.hockey-reference.com/boxscores/201803030DAL.html,1.0,1041.0
-2018-03-03,New York Rangers,3,Edmonton Oilers,2,,,2:29,,https://www.hockey-reference.com/boxscores/201803030EDM.html,0.0,1041.0
-2018-03-03,Chicago Blackhawks,5,Los Angeles Kings,3,,,2:31,,https://www.hockey-reference.com/boxscores/201803030LAK.html,0.0,1041.0
-2018-03-03,New York Islanders,2,Pittsburgh Penguins,3,OT,,2:31,,https://www.hockey-reference.com/boxscores/201803030PIT.html,0.0,1041.0
-2018-03-03,Philadelphia Flyers,6,Tampa Bay Lightning,7,SO,,2:49,,https://www.hockey-reference.com/boxscores/201803030TBL.html,2.0,1043.0
-2018-03-03,Toronto Maple Leafs,2,Washington Capitals,5,,,2:47,,https://www.hockey-reference.com/boxscores/201803030WSH.html,0.0,1043.0
-2018-03-04,Chicago Blackhawks,,Anaheim Ducks,,,None,,,https://www.hockey-reference.com/boxscores/201803040ANA.html,0.0,0.0
-2018-03-04,Winnipeg Jets,,Carolina Hurricanes,,,None,,,https://www.hockey-reference.com/boxscores/201803040CAR.html,0.0,0.0
-2018-03-04,Nashville Predators,,Colorado Avalanche,,,None,,,https://www.hockey-reference.com/boxscores/201803040COL.html,0.0,0.0
-2018-03-04,Philadelphia Flyers,,Florida Panthers,,,None,,,https://www.hockey-reference.com/boxscores/201803040FLA.html,0.0,0.0
-2018-03-04,Detroit Red Wings,,Minnesota Wild,,,None,,,https://www.hockey-reference.com/boxscores/201803040MIN.html,0.0,0.0
-2018-03-04,Vegas Golden Knights,,New Jersey Devils,,,None,,,https://www.hockey-reference.com/boxscores/201803040NJD.html,0.0,0.0
-2018-03-04,Columbus Blue Jackets,,San Jose Sharks,,,None,,,https://www.hockey-reference.com/boxscores/201803040SJS.html,0.0,0.0
-2018-03-05,Toronto Maple Leafs,,Buffalo Sabres,,,None,,,https://www.hockey-reference.com/boxscores/201803050BUF.html,0.0,0.0
-2018-03-05,Ottawa Senators,,Dallas Stars,,,None,,,https://www.hockey-reference.com/boxscores/201803050DAL.html,0.0,0.0
-2018-03-05,Arizona Coyotes,,Edmonton Oilers,,,None,,,https://www.hockey-reference.com/boxscores/201803050EDM.html,0.0,0.0
-2018-03-05,Calgary Flames,,Pittsburgh Penguins,,,None,,,https://www.hockey-reference.com/boxscores/201803050PIT.html,0.0,0.0
-2018-03-05,New York Islanders,,Vancouver Canucks,,,None,,,https://www.hockey-reference.com/boxscores/201803050VAN.html,0.0,0.0
-2018-03-06,Washington Capitals,,Anaheim Ducks,,,None,,,https://www.hockey-reference.com/boxscores/201803060ANA.html,0.0,0.0
-2018-03-06,Detroit Red Wings,,Boston Bruins,,,None,,,https://www.hockey-reference.com/boxscores/201803060BOS.html,0.0,0.0
-2018-03-06,Vegas Golden Knights,,Columbus Blue Jackets,,,None,,,https://www.hockey-reference.com/boxscores/201803060CBJ.html,0.0,0.0
-2018-03-06,Colorado Avalanche,,Chicago Blackhawks,,,None,,,https://www.hockey-reference.com/boxscores/201803060CHI.html,0.0,0.0
-2018-03-06,Carolina Hurricanes,,Minnesota Wild,,,None,,,https://www.hockey-reference.com/boxscores/201803060MIN.html,0.0,0.0
-2018-03-06,Montreal Canadiens,,New Jersey Devils,,,None,,,https://www.hockey-reference.com/boxscores/201803060NJD.html,0.0,0.0
-2018-03-06,Dallas Stars,,Nashville Predators,,,None,,,https://www.hockey-reference.com/boxscores/201803060NSH.html,0.0,0.0
-2018-03-06,Winnipeg Jets,,New York Rangers,,,None,,,https://www.hockey-reference.com/boxscores/201803060NYR.html,0.0,0.0
-2018-03-06,Florida Panthers,,Tampa Bay Lightning,,,None,,,https://www.hockey-reference.com/boxscores/201803060TBL.html,0.0,0.0
-2018-03-07,Calgary Flames,,Buffalo Sabres,,,None,,,https://www.hockey-reference.com/boxscores/201803070BUF.html,0.0,0.0
-2018-03-07,Pittsburgh Penguins,,Philadelphia Flyers,,,None,,,https://www.hockey-reference.com/boxscores/201803070PHI.html,0.0,0.0
-2018-03-07,Arizona Coyotes,,Vancouver Canucks,,,None,,,https://www.hockey-reference.com/boxscores/201803070VAN.html,0.0,0.0
-2018-03-08,Philadelphia Flyers,,Boston Bruins,,,None,,,https://www.hockey-reference.com/boxscores/201803080BOS.html,0.0,0.0
-2018-03-08,Colorado Avalanche,,Columbus Blue Jackets,,,None,,,https://www.hockey-reference.com/boxscores/201803080CBJ.html,0.0,0.0
-2018-03-08,Carolina Hurricanes,,Chicago Blackhawks,,,None,,,https://www.hockey-reference.com/boxscores/201803080CHI.html,0.0,0.0
-2018-03-08,Vegas Golden Knights,,Detroit Red Wings,,,None,,,https://www.hockey-reference.com/boxscores/201803080DET.html,0.0,0.0
-2018-03-08,New York Islanders,,Edmonton Oilers,,,None,,,https://www.hockey-reference.com/boxscores/201803080EDM.html,0.0,0.0
-2018-03-08,Montreal Canadiens,,Florida Panthers,,,None,,,https://www.hockey-reference.com/boxscores/201803080FLA.html,0.0,0.0
-2018-03-08,Washington Capitals,,Los Angeles Kings,,,None,,,https://www.hockey-reference.com/boxscores/201803080LAK.html,0.0,0.0
-2018-03-08,Winnipeg Jets,,New Jersey Devils,,,None,,,https://www.hockey-reference.com/boxscores/201803080NJD.html,0.0,0.0
-2018-03-08,Anaheim Ducks,,Nashville Predators,,,None,,,https://www.hockey-reference.com/boxscores/201803080NSH.html,0.0,0.0
-2018-03-08,Buffalo Sabres,,Ottawa Senators,,,None,,,https://www.hockey-reference.com/boxscores/201803080OTT.html,0.0,0.0
-2018-03-08,St. Louis Blues,,San Jose Sharks,,,None,,,https://www.hockey-reference.com/boxscores/201803080SJS.html,0.0,0.0
-2018-03-08,New York Rangers,,Tampa Bay Lightning,,,None,,,https://www.hockey-reference.com/boxscores/201803080TBL.html,0.0,0.0
-2018-03-09,Detroit Red Wings,,Columbus Blue Jackets,,,None,,,https://www.hockey-reference.com/boxscores/201803090CBJ.html,0.0,0.0
-2018-03-09,Anaheim Ducks,,Dallas Stars,,,None,,,https://www.hockey-reference.com/boxscores/201803090DAL.html,0.0,0.0
-2018-03-09,Calgary Flames,,Ottawa Senators,,,None,,,https://www.hockey-reference.com/boxscores/201803090OTT.html,0.0,0.0
-2018-03-09,Minnesota Wild,,Vancouver Canucks,,,None,,,https://www.hockey-reference.com/boxscores/201803090VAN.html,0.0,0.0
-2018-03-10,Chicago Blackhawks,,Boston Bruins,,,None,,,https://www.hockey-reference.com/boxscores/201803100BOS.html,0.0,0.0
-2018-03-10,Vegas Golden Knights,,Buffalo Sabres,,,None,,,https://www.hockey-reference.com/boxscores/201803100BUF.html,0.0,0.0
-2018-03-10,Arizona Coyotes,,Colorado Avalanche,,,None,,,https://www.hockey-reference.com/boxscores/201803100COL.html,0.0,0.0
-2018-03-10,Minnesota Wild,,Edmonton Oilers,,,None,,,https://www.hockey-reference.com/boxscores/201803100EDM.html,0.0,0.0
-2018-03-10,New York Rangers,,Florida Panthers,,,None,,,https://www.hockey-reference.com/boxscores/201803100FLA.html,0.0,0.0
-2018-03-10,St. Louis Blues,,Los Angeles Kings,,,None,,,https://www.hockey-reference.com/boxscores/201803100LAK.html,0.0,0.0
-2018-03-10,New Jersey Devils,,Nashville Predators,,,None,,,https://www.hockey-reference.com/boxscores/201803100NSH.html,0.0,0.0
-2018-03-10,Winnipeg Jets,,Philadelphia Flyers,,,None,,,https://www.hockey-reference.com/boxscores/201803100PHI.html,0.0,0.0
-2018-03-10,Washington Capitals,,San Jose Sharks,,,None,,,https://www.hockey-reference.com/boxscores/201803100SJS.html,0.0,0.0
-2018-03-10,Montreal Canadiens,,Tampa Bay Lightning,,,None,,,https://www.hockey-reference.com/boxscores/201803100TBL.html,0.0,0.0
-2018-03-10,Pittsburgh Penguins,,Toronto Maple Leafs,,,None,,,https://www.hockey-reference.com/boxscores/201803100TOR.html,0.0,0.0
-2018-03-11,Vancouver Canucks,,Arizona Coyotes,,,None,,,https://www.hockey-reference.com/boxscores/201803110ARI.html,0.0,0.0
-2018-03-11,New York Islanders,,Calgary Flames,,,None,,,https://www.hockey-reference.com/boxscores/201803110CGY.html,0.0,0.0
-2018-03-11,Boston Bruins,,Chicago Blackhawks,,,None,,,https://www.hockey-reference.com/boxscores/201803110CHI.html,0.0,0.0
-2018-03-11,Dallas Stars,,Pittsburgh Penguins,,,None,,,https://www.hockey-reference.com/boxscores/201803110PIT.html,0.0,0.0
-2018-03-12,St. Louis Blues,,Anaheim Ducks,,,None,,,https://www.hockey-reference.com/boxscores/201803120ANA.html,0.0,0.0
-2018-03-12,Montreal Canadiens,,Columbus Blue Jackets,,,None,,,https://www.hockey-reference.com/boxscores/201803120CBJ.html,0.0,0.0
-2018-03-12,Ottawa Senators,,Florida Panthers,,,None,,,https://www.hockey-reference.com/boxscores/201803120FLA.html,0.0,0.0
-2018-03-12,Vancouver Canucks,,Los Angeles Kings,,,None,,,https://www.hockey-reference.com/boxscores/201803120LAK.html,0.0,0.0
-2018-03-12,Carolina Hurricanes,,New York Rangers,,,None,,,https://www.hockey-reference.com/boxscores/201803120NYR.html,0.0,0.0
-2018-03-12,Vegas Golden Knights,,Philadelphia Flyers,,,None,,,https://www.hockey-reference.com/boxscores/201803120PHI.html,0.0,0.0
-2018-03-12,Detroit Red Wings,,San Jose Sharks,,,None,,,https://www.hockey-reference.com/boxscores/201803120SJS.html,0.0,0.0
-2018-03-12,Winnipeg Jets,,Washington Capitals,,,None,,,https://www.hockey-reference.com/boxscores/201803120WSH.html,0.0,0.0
-2018-03-13,Los Angeles Kings,,Arizona Coyotes,,,None,,,https://www.hockey-reference.com/boxscores/201803130ARI.html,0.0,0.0
-2018-03-13,Boston Bruins,,Carolina Hurricanes,,,None,,,https://www.hockey-reference.com/boxscores/201803130CAR.html,0.0,0.0
-2018-03-13,Edmonton Oilers,,Calgary Flames,,,None,,,https://www.hockey-reference.com/boxscores/201803130CGY.html,0.0,0.0
-2018-03-13,Colorado Avalanche,,Minnesota Wild,,,None,,,https://www.hockey-reference.com/boxscores/201803130MIN.html,0.0,0.0
-2018-03-13,Dallas Stars,,Montreal Canadiens,,,None,,,https://www.hockey-reference.com/boxscores/201803130MTL.html,0.0,0.0
-2018-03-13,Winnipeg Jets,,Nashville Predators,,,None,,,https://www.hockey-reference.com/boxscores/201803130NSH.html,0.0,0.0
-2018-03-13,Ottawa Senators,,Tampa Bay Lightning,,,None,,,https://www.hockey-reference.com/boxscores/201803130TBL.html,0.0,0.0
-2018-03-14,Vancouver Canucks,,Anaheim Ducks,,,None,,,https://www.hockey-reference.com/boxscores/201803140ANA.html,0.0,0.0
-2018-03-14,San Jose Sharks,,Edmonton Oilers,,,None,,,https://www.hockey-reference.com/boxscores/201803140EDM.html,0.0,0.0
-2018-03-14,Pittsburgh Penguins,,New York Rangers,,,None,,,https://www.hockey-reference.com/boxscores/201803140NYR.html,0.0,0.0
-2018-03-14,Dallas Stars,,Toronto Maple Leafs,,,None,,,https://www.hockey-reference.com/boxscores/201803140TOR.html,0.0,0.0
-2018-03-14,New Jersey Devils,,Vegas Golden Knights,,,None,,,https://www.hockey-reference.com/boxscores/201803140VEG.html,0.0,0.0
-2018-03-15,Nashville Predators,,Arizona Coyotes,,,None,,,https://www.hockey-reference.com/boxscores/201803150ARI.html,0.0,0.0
-2018-03-15,Toronto Maple Leafs,,Buffalo Sabres,,,None,,,https://www.hockey-reference.com/boxscores/201803150BUF.html,0.0,0.0
-2018-03-15,Boston Bruins,,Florida Panthers,,,None,,,https://www.hockey-reference.com/boxscores/201803150FLA.html,0.0,0.0
-2018-03-15,Detroit Red Wings,,Los Angeles Kings,,,None,,,https://www.hockey-reference.com/boxscores/201803150LAK.html,0.0,0.0
-2018-03-15,Pittsburgh Penguins,,Montreal Canadiens,,,None,,,https://www.hockey-reference.com/boxscores/201803150MTL.html,0.0,0.0
-2018-03-15,Washington Capitals,,New York Islanders,,,None,,,https://www.hockey-reference.com/boxscores/201803150NYI.html,0.0,0.0
-2018-03-15,Columbus Blue Jackets,,Philadelphia Flyers,,,None,,,https://www.hockey-reference.com/boxscores/201803150PHI.html,0.0,0.0
-2018-03-15,Colorado Avalanche,,St. Louis Blues,,,None,,,https://www.hockey-reference.com/boxscores/201803150STL.html,0.0,0.0
-2018-03-15,Chicago Blackhawks,,Winnipeg Jets,,,None,,,https://www.hockey-reference.com/boxscores/201803150WPG.html,0.0,0.0
-2018-03-16,Detroit Red Wings,,Anaheim Ducks,,,None,,,https://www.hockey-reference.com/boxscores/201803160ANA.html,0.0,0.0
-2018-03-16,San Jose Sharks,,Calgary Flames,,,None,,,https://www.hockey-reference.com/boxscores/201803160CGY.html,0.0,0.0
-2018-03-16,Nashville Predators,,Colorado Avalanche,,,None,,,https://www.hockey-reference.com/boxscores/201803160COL.html,0.0,0.0
-2018-03-16,Dallas Stars,,Ottawa Senators,,,None,,,https://www.hockey-reference.com/boxscores/201803160OTT.html,0.0,0.0
-2018-03-16,Minnesota Wild,,Vegas Golden Knights,,,None,,,https://www.hockey-reference.com/boxscores/201803160VEG.html,0.0,0.0
-2018-03-16,New York Islanders,,Washington Capitals,,,None,,,https://www.hockey-reference.com/boxscores/201803160WSH.html,0.0,0.0
-2018-03-17,Minnesota Wild,,Arizona Coyotes,,,None,,,https://www.hockey-reference.com/boxscores/201803170ARI.html,0.0,0.0
-2018-03-17,Chicago Blackhawks,,Buffalo Sabres,,,None,,,https://www.hockey-reference.com/boxscores/201803170BUF.html,0.0,0.0
-2018-03-17,Philadelphia Flyers,,Carolina Hurricanes,,,None,,,https://www.hockey-reference.com/boxscores/201803170CAR.html,0.0,0.0
-2018-03-17,Ottawa Senators,,Columbus Blue Jackets,,,None,,,https://www.hockey-reference.com/boxscores/201803170CBJ.html,0.0,0.0
-2018-03-17,Edmonton Oilers,,Florida Panthers,,,None,,,https://www.hockey-reference.com/boxscores/201803170FLA.html,0.0,0.0
-2018-03-17,New Jersey Devils,,Los Angeles Kings,,,None,,,https://www.hockey-reference.com/boxscores/201803170LAK.html,0.0,0.0
-2018-03-17,New York Rangers,,St. Louis Blues,,,None,,,https://www.hockey-reference.com/boxscores/201803170STL.html,0.0,0.0
-2018-03-17,Boston Bruins,,Tampa Bay Lightning,,,None,,,https://www.hockey-reference.com/boxscores/201803170TBL.html,0.0,0.0
-2018-03-17,Montreal Canadiens,,Toronto Maple Leafs,,,None,,,https://www.hockey-reference.com/boxscores/201803170TOR.html,0.0,0.0
-2018-03-17,San Jose Sharks,,Vancouver Canucks,,,None,,,https://www.hockey-reference.com/boxscores/201803170VAN.html,0.0,0.0
-2018-03-18,New Jersey Devils,,Anaheim Ducks,,,None,,,https://www.hockey-reference.com/boxscores/201803180ANA.html,0.0,0.0
-2018-03-18,St. Louis Blues,,Chicago Blackhawks,,,None,,,https://www.hockey-reference.com/boxscores/201803180CHI.html,0.0,0.0
-2018-03-18,Detroit Red Wings,,Colorado Avalanche,,,None,,,https://www.hockey-reference.com/boxscores/201803180COL.html,0.0,0.0
-2018-03-18,Carolina Hurricanes,,New York Islanders,,,None,,,https://www.hockey-reference.com/boxscores/201803180NYI.html,0.0,0.0
-2018-03-18,Washington Capitals,,Philadelphia Flyers,,,None,,,https://www.hockey-reference.com/boxscores/201803180PHI.html,0.0,0.0
-2018-03-18,Edmonton Oilers,,Tampa Bay Lightning,,,None,,,https://www.hockey-reference.com/boxscores/201803180TBL.html,0.0,0.0
-2018-03-18,Calgary Flames,,Vegas Golden Knights,,,None,,,https://www.hockey-reference.com/boxscores/201803180VEG.html,0.0,0.0
-2018-03-18,Dallas Stars,,Winnipeg Jets,,,None,,,https://www.hockey-reference.com/boxscores/201803180WPG.html,0.0,0.0
-2018-03-19,Calgary Flames,,Arizona Coyotes,,,None,,,https://www.hockey-reference.com/boxscores/201803190ARI.html,0.0,0.0
-2018-03-19,Columbus Blue Jackets,,Boston Bruins,,,None,,,https://www.hockey-reference.com/boxscores/201803190BOS.html,0.0,0.0
-2018-03-19,Nashville Predators,,Buffalo Sabres,,,None,,,https://www.hockey-reference.com/boxscores/201803190BUF.html,0.0,0.0
-2018-03-19,Los Angeles Kings,,Minnesota Wild,,,None,,,https://www.hockey-reference.com/boxscores/201803190MIN.html,0.0,0.0
-2018-03-19,Florida Panthers,,Montreal Canadiens,,,None,,,https://www.hockey-reference.com/boxscores/201803190MTL.html,0.0,0.0
-2018-03-20,Edmonton Oilers,,Carolina Hurricanes,,,None,,,https://www.hockey-reference.com/boxscores/201803200CAR.html,0.0,0.0
-2018-03-20,Colorado Avalanche,,Chicago Blackhawks,,,None,,,https://www.hockey-reference.com/boxscores/201803200CHI.html,0.0,0.0
-2018-03-20,Philadelphia Flyers,,Detroit Red Wings,,,None,,,https://www.hockey-reference.com/boxscores/201803200DET.html,0.0,0.0
-2018-03-20,Pittsburgh Penguins,,New York Islanders,,,None,,,https://www.hockey-reference.com/boxscores/201803200NYI.html,0.0,0.0
-2018-03-20,Columbus Blue Jackets,,New York Rangers,,,None,,,https://www.hockey-reference.com/boxscores/201803200NYR.html,0.0,0.0
-2018-03-20,Florida Panthers,,Ottawa Senators,,,None,,,https://www.hockey-reference.com/boxscores/201803200OTT.html,0.0,0.0
-2018-03-20,New Jersey Devils,,San Jose Sharks,,,None,,,https://www.hockey-reference.com/boxscores/201803200SJS.html,0.0,0.0
-2018-03-20,Toronto Maple Leafs,,Tampa Bay Lightning,,,None,,,https://www.hockey-reference.com/boxscores/201803200TBL.html,0.0,0.0
-2018-03-20,Vancouver Canucks,,Vegas Golden Knights,,,None,,,https://www.hockey-reference.com/boxscores/201803200VEG.html,0.0,0.0
-2018-03-20,Los Angeles Kings,,Winnipeg Jets,,,None,,,https://www.hockey-reference.com/boxscores/201803200WPG.html,0.0,0.0
-2018-03-20,Dallas Stars,,Washington Capitals,,,None,,,https://www.hockey-reference.com/boxscores/201803200WSH.html,0.0,0.0
-2018-03-21,Arizona Coyotes,,Buffalo Sabres,,,None,,,https://www.hockey-reference.com/boxscores/201803210BUF.html,0.0,0.0
-2018-03-21,Anaheim Ducks,,Calgary Flames,,,None,,,https://www.hockey-reference.com/boxscores/201803210CGY.html,0.0,0.0
-2018-03-21,Montreal Canadiens,,Pittsburgh Penguins,,,None,,,https://www.hockey-reference.com/boxscores/201803210PIT.html,0.0,0.0
-2018-03-21,Boston Bruins,,St. Louis Blues,,,None,,,https://www.hockey-reference.com/boxscores/201803210STL.html,0.0,0.0
-2018-03-22,Arizona Coyotes,,Carolina Hurricanes,,,None,,,https://www.hockey-reference.com/boxscores/201803220CAR.html,0.0,0.0
-2018-03-22,Florida Panthers,,Columbus Blue Jackets,,,None,,,https://www.hockey-reference.com/boxscores/201803220CBJ.html,0.0,0.0
-2018-03-22,Vancouver Canucks,,Chicago Blackhawks,,,None,,,https://www.hockey-reference.com/boxscores/201803220CHI.html,0.0,0.0
-2018-03-22,Los Angeles Kings,,Colorado Avalanche,,,None,,,https://www.hockey-reference.com/boxscores/201803220COL.html,0.0,0.0
-2018-03-22,Washington Capitals,,Detroit Red Wings,,,None,,,https://www.hockey-reference.com/boxscores/201803220DET.html,0.0,0.0
-2018-03-22,Toronto Maple Leafs,,Nashville Predators,,,None,,,https://www.hockey-reference.com/boxscores/201803220NSH.html,0.0,0.0
-2018-03-22,Tampa Bay Lightning,,New York Islanders,,,None,,,https://www.hockey-reference.com/boxscores/201803220NYI.html,0.0,0.0
-2018-03-22,Edmonton Oilers,,Ottawa Senators,,,None,,,https://www.hockey-reference.com/boxscores/201803220OTT.html,0.0,0.0
-2018-03-22,New York Rangers,,Philadelphia Flyers,,,None,,,https://www.hockey-reference.com/boxscores/201803220PHI.html,0.0,0.0
-2018-03-22,Vegas Golden Knights,,San Jose Sharks,,,None,,,https://www.hockey-reference.com/boxscores/201803220SJS.html,0.0,0.0
-2018-03-23,Montreal Canadiens,,Buffalo Sabres,,,None,,,https://www.hockey-reference.com/boxscores/201803230BUF.html,0.0,0.0
-2018-03-23,Boston Bruins,,Dallas Stars,,,None,,,https://www.hockey-reference.com/boxscores/201803230DAL.html,0.0,0.0
-2018-03-23,New Jersey Devils,,Pittsburgh Penguins,,,None,,,https://www.hockey-reference.com/boxscores/201803230PIT.html,0.0,0.0
-2018-03-23,Vancouver Canucks,,St. Louis Blues,,,None,,,https://www.hockey-reference.com/boxscores/201803230STL.html,0.0,0.0
-2018-03-23,Anaheim Ducks,,Winnipeg Jets,,,None,,,https://www.hockey-reference.com/boxscores/201803230WPG.html,0.0,0.0
-2018-03-24,St. Louis Blues,,Columbus Blue Jackets,,,None,,,https://www.hockey-reference.com/boxscores/201803240CBJ.html,0.0,0.0
-2018-03-24,Vegas Golden Knights,,Colorado Avalanche,,,None,,,https://www.hockey-reference.com/boxscores/201803240COL.html,0.0,0.0
-2018-03-24,Los Angeles Kings,,Edmonton Oilers,,,None,,,https://www.hockey-reference.com/boxscores/201803240EDM.html,0.0,0.0
-2018-03-24,Arizona Coyotes,,Florida Panthers,,,None,,,https://www.hockey-reference.com/boxscores/201803240FLA.html,0.0,0.0
-2018-03-24,Nashville Predators,,Minnesota Wild,,,None,,,https://www.hockey-reference.com/boxscores/201803240MIN.html,0.0,0.0
-2018-03-24,Washington Capitals,,Montreal Canadiens,,,None,,,https://www.hockey-reference.com/boxscores/201803240MTL.html,0.0,0.0
-2018-03-24,Tampa Bay Lightning,,New Jersey Devils,,,None,,,https://www.hockey-reference.com/boxscores/201803240NJD.html,0.0,0.0
-2018-03-24,Chicago Blackhawks,,New York Islanders,,,None,,,https://www.hockey-reference.com/boxscores/201803240NYI.html,0.0,0.0
-2018-03-24,Buffalo Sabres,,New York Rangers,,,None,,,https://www.hockey-reference.com/boxscores/201803240NYR.html,0.0,0.0
-2018-03-24,Carolina Hurricanes,,Ottawa Senators,,,None,,,https://www.hockey-reference.com/boxscores/201803240OTT.html,0.0,0.0
-2018-03-24,Calgary Flames,,San Jose Sharks,,,None,,,https://www.hockey-reference.com/boxscores/201803240SJS.html,0.0,0.0
-2018-03-24,Detroit Red Wings,,Toronto Maple Leafs,,,None,,,https://www.hockey-reference.com/boxscores/201803240TOR.html,0.0,0.0
-2018-03-25,Vancouver Canucks,,Dallas Stars,,,None,,,https://www.hockey-reference.com/boxscores/201803250DAL.html,0.0,0.0
-2018-03-25,Anaheim Ducks,,Edmonton Oilers,,,None,,,https://www.hockey-reference.com/boxscores/201803250EDM.html,0.0,0.0
-2018-03-25,Boston Bruins,,Minnesota Wild,,,None,,,https://www.hockey-reference.com/boxscores/201803250MIN.html,0.0,0.0
-2018-03-25,Philadelphia Flyers,,Pittsburgh Penguins,,,None,,,https://www.hockey-reference.com/boxscores/201803250PIT.html,0.0,0.0
-2018-03-25,Nashville Predators,,Winnipeg Jets,,,None,,,https://www.hockey-reference.com/boxscores/201803250WPG.html,0.0,0.0
-2018-03-26,Ottawa Senators,,Carolina Hurricanes,,,None,,,https://www.hockey-reference.com/boxscores/201803260CAR.html,0.0,0.0
-2018-03-26,San Jose Sharks,,Chicago Blackhawks,,,None,,,https://www.hockey-reference.com/boxscores/201803260CHI.html,0.0,0.0
-2018-03-26,Calgary Flames,,Los Angeles Kings,,,None,,,https://www.hockey-reference.com/boxscores/201803260LAK.html,0.0,0.0
-2018-03-26,Detroit Red Wings,,Montreal Canadiens,,,None,,,https://www.hockey-reference.com/boxscores/201803260MTL.html,0.0,0.0
-2018-03-26,Florida Panthers,,New York Islanders,,,None,,,https://www.hockey-reference.com/boxscores/201803260NYI.html,0.0,0.0
-2018-03-26,Washington Capitals,,New York Rangers,,,None,,,https://www.hockey-reference.com/boxscores/201803260NYR.html,0.0,0.0
-2018-03-26,Arizona Coyotes,,Tampa Bay Lightning,,,None,,,https://www.hockey-reference.com/boxscores/201803260TBL.html,0.0,0.0
-2018-03-26,Buffalo Sabres,,Toronto Maple Leafs,,,None,,,https://www.hockey-reference.com/boxscores/201803260TOR.html,0.0,0.0
-2018-03-26,Colorado Avalanche,,Vegas Golden Knights,,,None,,,https://www.hockey-reference.com/boxscores/201803260VEG.html,0.0,0.0
-2018-03-27,Philadelphia Flyers,,Dallas Stars,,,None,,,https://www.hockey-reference.com/boxscores/201803270DAL.html,0.0,0.0
-2018-03-27,Pittsburgh Penguins,,Detroit Red Wings,,,None,,,https://www.hockey-reference.com/boxscores/201803270DET.html,0.0,0.0
-2018-03-27,Columbus Blue Jackets,,Edmonton Oilers,,,None,,,https://www.hockey-reference.com/boxscores/201803270EDM.html,0.0,0.0
-2018-03-27,Carolina Hurricanes,,New Jersey Devils,,,None,,,https://www.hockey-reference.com/boxscores/201803270NJD.html,0.0,0.0
-2018-03-27,Minnesota Wild,,Nashville Predators,,,None,,,https://www.hockey-reference.com/boxscores/201803270NSH.html,0.0,0.0
-2018-03-27,New York Islanders,,Ottawa Senators,,,None,,,https://www.hockey-reference.com/boxscores/201803270OTT.html,0.0,0.0
-2018-03-27,San Jose Sharks,,St. Louis Blues,,,None,,,https://www.hockey-reference.com/boxscores/201803270STL.html,0.0,0.0
-2018-03-27,Anaheim Ducks,,Vancouver Canucks,,,None,,,https://www.hockey-reference.com/boxscores/201803270VAN.html,0.0,0.0
-2018-03-27,Boston Bruins,,Winnipeg Jets,,,None,,,https://www.hockey-reference.com/boxscores/201803270WPG.html,0.0,0.0
-2018-03-28,Philadelphia Flyers,,Colorado Avalanche,,,None,,,https://www.hockey-reference.com/boxscores/201803280COL.html,0.0,0.0
-2018-03-28,Florida Panthers,,Toronto Maple Leafs,,,None,,,https://www.hockey-reference.com/boxscores/201803280TOR.html,0.0,0.0
-2018-03-28,Arizona Coyotes,,Vegas Golden Knights,,,None,,,https://www.hockey-reference.com/boxscores/201803280VEG.html,0.0,0.0
-2018-03-28,New York Rangers,,Washington Capitals,,,None,,,https://www.hockey-reference.com/boxscores/201803280WSH.html,0.0,0.0
-2018-03-29,Tampa Bay Lightning,,Boston Bruins,,,None,,,https://www.hockey-reference.com/boxscores/201803290BOS.html,0.0,0.0
-2018-03-29,Detroit Red Wings,,Buffalo Sabres,,,None,,,https://www.hockey-reference.com/boxscores/201803290BUF.html,0.0,0.0
-2018-03-29,Columbus Blue Jackets,,Calgary Flames,,,None,,,https://www.hockey-reference.com/boxscores/201803290CGY.html,0.0,0.0
-2018-03-29,Winnipeg Jets,,Chicago Blackhawks,,,None,,,https://www.hockey-reference.com/boxscores/201803290CHI.html,0.0,0.0
-2018-03-29,Arizona Coyotes,,Los Angeles Kings,,,None,,,https://www.hockey-reference.com/boxscores/201803290LAK.html,0.0,0.0
-2018-03-29,Dallas Stars,,Minnesota Wild,,,None,,,https://www.hockey-reference.com/boxscores/201803290MIN.html,0.0,0.0
-2018-03-29,Pittsburgh Penguins,,New Jersey Devils,,,None,,,https://www.hockey-reference.com/boxscores/201803290NJD.html,0.0,0.0
-2018-03-29,San Jose Sharks,,Nashville Predators,,,None,,,https://www.hockey-reference.com/boxscores/201803290NSH.html,0.0,0.0
-2018-03-29,Florida Panthers,,Ottawa Senators,,,None,,,https://www.hockey-reference.com/boxscores/201803290OTT.html,0.0,0.0
-2018-03-29,Edmonton Oilers,,Vancouver Canucks,,,None,,,https://www.hockey-reference.com/boxscores/201803290VAN.html,0.0,0.0
-2018-03-30,Los Angeles Kings,,Anaheim Ducks,,,None,,,https://www.hockey-reference.com/boxscores/201803300ANA.html,0.0,0.0
-2018-03-30,Chicago Blackhawks,,Colorado Avalanche,,,None,,,https://www.hockey-reference.com/boxscores/201803300COL.html,0.0,0.0
-2018-03-30,Toronto Maple Leafs,,New York Islanders,,,None,,,https://www.hockey-reference.com/boxscores/201803300NYI.html,0.0,0.0
-2018-03-30,Tampa Bay Lightning,,New York Rangers,,,None,,,https://www.hockey-reference.com/boxscores/201803300NYR.html,0.0,0.0
-2018-03-30,St. Louis Blues,,Vegas Golden Knights,,,None,,,https://www.hockey-reference.com/boxscores/201803300VEG.html,0.0,0.0
-2018-03-30,Carolina Hurricanes,,Washington Capitals,,,None,,,https://www.hockey-reference.com/boxscores/201803300WSH.html,0.0,0.0
-2018-03-31,St. Louis Blues,,Arizona Coyotes,,,None,,,https://www.hockey-reference.com/boxscores/201803310ARI.html,0.0,0.0
-2018-03-31,Florida Panthers,,Boston Bruins,,,None,,,https://www.hockey-reference.com/boxscores/201803310BOS.html,0.0,0.0
-2018-03-31,New York Rangers,,Carolina Hurricanes,,,None,,,https://www.hockey-reference.com/boxscores/201803310CAR.html,0.0,0.0
-2018-03-31,Edmonton Oilers,,Calgary Flames,,,None,,,https://www.hockey-reference.com/boxscores/201803310CGY.html,0.0,0.0
-2018-03-31,Minnesota Wild,,Dallas Stars,,,None,,,https://www.hockey-reference.com/boxscores/201803310DAL.html,0.0,0.0
-2018-03-31,Ottawa Senators,,Detroit Red Wings,,,None,,,https://www.hockey-reference.com/boxscores/201803310DET.html,0.0,0.0
-2018-03-31,New York Islanders,,New Jersey Devils,,,None,,,https://www.hockey-reference.com/boxscores/201803310NJD.html,0.0,0.0
-2018-03-31,Buffalo Sabres,,Nashville Predators,,,None,,,https://www.hockey-reference.com/boxscores/201803310NSH.html,0.0,0.0
-2018-03-31,Montreal Canadiens,,Pittsburgh Penguins,,,None,,,https://www.hockey-reference.com/boxscores/201803310PIT.html,0.0,0.0
-2018-03-31,Winnipeg Jets,,Toronto Maple Leafs,,,None,,,https://www.hockey-reference.com/boxscores/201803310TOR.html,0.0,0.0
-2018-03-31,Columbus Blue Jackets,,Vancouver Canucks,,,None,,,https://www.hockey-reference.com/boxscores/201803310VAN.html,0.0,0.0
-2018-03-31,San Jose Sharks,,Vegas Golden Knights,,,None,,,https://www.hockey-reference.com/boxscores/201803310VEG.html,0.0,0.0
-2018-04-01,Colorado Avalanche,,Anaheim Ducks,,,None,,,https://www.hockey-reference.com/boxscores/201804010ANA.html,0.0,0.0
-2018-04-01,New Jersey Devils,,Montreal Canadiens,,,None,,,https://www.hockey-reference.com/boxscores/201804010MTL.html,0.0,0.0
-2018-04-01,Boston Bruins,,Philadelphia Flyers,,,None,,,https://www.hockey-reference.com/boxscores/201804010PHI.html,0.0,0.0
-2018-04-01,Washington Capitals,,Pittsburgh Penguins,,,None,,,https://www.hockey-reference.com/boxscores/201804010PIT.html,0.0,0.0
-2018-04-01,Nashville Predators,,Tampa Bay Lightning,,,None,,,https://www.hockey-reference.com/boxscores/201804010TBL.html,0.0,0.0
-2018-04-02,Carolina Hurricanes,,Florida Panthers,,,None,,,https://www.hockey-reference.com/boxscores/201804020FLA.html,0.0,0.0
-2018-04-02,Colorado Avalanche,,Los Angeles Kings,,,None,,,https://www.hockey-reference.com/boxscores/201804020LAK.html,0.0,0.0
-2018-04-02,Edmonton Oilers,,Minnesota Wild,,,None,,,https://www.hockey-reference.com/boxscores/201804020MIN.html,0.0,0.0
-2018-04-02,Winnipeg Jets,,Ottawa Senators,,,None,,,https://www.hockey-reference.com/boxscores/201804020OTT.html,0.0,0.0
-2018-04-02,Washington Capitals,,St. Louis Blues,,,None,,,https://www.hockey-reference.com/boxscores/201804020STL.html,0.0,0.0
-2018-04-02,Buffalo Sabres,,Toronto Maple Leafs,,,None,,,https://www.hockey-reference.com/boxscores/201804020TOR.html,0.0,0.0
-2018-04-03,Detroit Red Wings,,Columbus Blue Jackets,,,None,,,https://www.hockey-reference.com/boxscores/201804030CBJ.html,0.0,0.0
-2018-04-03,Arizona Coyotes,,Calgary Flames,,,None,,,https://www.hockey-reference.com/boxscores/201804030CGY.html,0.0,0.0
-2018-04-03,Nashville Predators,,Florida Panthers,,,None,,,https://www.hockey-reference.com/boxscores/201804030FLA.html,0.0,0.0
-2018-04-03,Winnipeg Jets,,Montreal Canadiens,,,None,,,https://www.hockey-reference.com/boxscores/201804030MTL.html,0.0,0.0
-2018-04-03,New York Rangers,,New Jersey Devils,,,None,,,https://www.hockey-reference.com/boxscores/201804030NJD.html,0.0,0.0
-2018-04-03,Philadelphia Flyers,,New York Islanders,,,None,,,https://www.hockey-reference.com/boxscores/201804030NYI.html,0.0,0.0
-2018-04-03,Dallas Stars,,San Jose Sharks,,,None,,,https://www.hockey-reference.com/boxscores/201804030SJS.html,0.0,0.0
-2018-04-03,Boston Bruins,,Tampa Bay Lightning,,,None,,,https://www.hockey-reference.com/boxscores/201804030TBL.html,0.0,0.0
-2018-04-03,Vegas Golden Knights,,Vancouver Canucks,,,None,,,https://www.hockey-reference.com/boxscores/201804030VAN.html,0.0,0.0
-2018-04-04,Minnesota Wild,,Anaheim Ducks,,,None,,,https://www.hockey-reference.com/boxscores/201804040ANA.html,0.0,0.0
-2018-04-04,Ottawa Senators,,Buffalo Sabres,,,None,,,https://www.hockey-reference.com/boxscores/201804040BUF.html,0.0,0.0
-2018-04-04,Chicago Blackhawks,,St. Louis Blues,,,None,,,https://www.hockey-reference.com/boxscores/201804040STL.html,0.0,0.0
-2018-04-05,Pittsburgh Penguins,,Columbus Blue Jackets,,,None,,,https://www.hockey-reference.com/boxscores/201804050CBJ.html,0.0,0.0
-2018-04-05,Montreal Canadiens,,Detroit Red Wings,,,None,,,https://www.hockey-reference.com/boxscores/201804050DET.html,0.0,0.0
-2018-04-05,Vegas Golden Knights,,Edmonton Oilers,,,None,,,https://www.hockey-reference.com/boxscores/201804050EDM.html,0.0,0.0
-2018-04-05,Boston Bruins,,Florida Panthers,,,None,,,https://www.hockey-reference.com/boxscores/201804050FLA.html,0.0,0.0
-2018-04-05,Minnesota Wild,,Los Angeles Kings,,,None,,,https://www.hockey-reference.com/boxscores/201804050LAK.html,0.0,0.0
-2018-04-05,Toronto Maple Leafs,,New Jersey Devils,,,None,,,https://www.hockey-reference.com/boxscores/201804050NJD.html,0.0,0.0
-2018-04-05,New York Rangers,,New York Islanders,,,None,,,https://www.hockey-reference.com/boxscores/201804050NYI.html,0.0,0.0
-2018-04-05,Carolina Hurricanes,,Philadelphia Flyers,,,None,,,https://www.hockey-reference.com/boxscores/201804050PHI.html,0.0,0.0
-2018-04-05,Colorado Avalanche,,San Jose Sharks,,,None,,,https://www.hockey-reference.com/boxscores/201804050SJS.html,0.0,0.0
-2018-04-05,Arizona Coyotes,,Vancouver Canucks,,,None,,,https://www.hockey-reference.com/boxscores/201804050VAN.html,0.0,0.0
-2018-04-05,Calgary Flames,,Winnipeg Jets,,,None,,,https://www.hockey-reference.com/boxscores/201804050WPG.html,0.0,0.0
-2018-04-05,Nashville Predators,,Washington Capitals,,,None,,,https://www.hockey-reference.com/boxscores/201804050WSH.html,0.0,0.0
-2018-04-06,Dallas Stars,,Anaheim Ducks,,,None,,,https://www.hockey-reference.com/boxscores/201804060ANA.html,0.0,0.0
-2018-04-06,St. Louis Blues,,Chicago Blackhawks,,,None,,,https://www.hockey-reference.com/boxscores/201804060CHI.html,0.0,0.0
-2018-04-06,Ottawa Senators,,Pittsburgh Penguins,,,None,,,https://www.hockey-reference.com/boxscores/201804060PIT.html,0.0,0.0
-2018-04-06,Buffalo Sabres,,Tampa Bay Lightning,,,None,,,https://www.hockey-reference.com/boxscores/201804060TBL.html,0.0,0.0
-2018-04-07,Anaheim Ducks,,Arizona Coyotes,,,None,,,https://www.hockey-reference.com/boxscores/201804070ARI.html,0.0,0.0
-2018-04-07,Ottawa Senators,,Boston Bruins,,,None,,,https://www.hockey-reference.com/boxscores/201804070BOS.html,0.0,0.0
-2018-04-07,Tampa Bay Lightning,,Carolina Hurricanes,,,None,,,https://www.hockey-reference.com/boxscores/201804070CAR.html,0.0,0.0
-2018-04-07,Vegas Golden Knights,,Calgary Flames,,,None,,,https://www.hockey-reference.com/boxscores/201804070CGY.html,0.0,0.0
-2018-04-07,St. Louis Blues,,Colorado Avalanche,,,None,,,https://www.hockey-reference.com/boxscores/201804070COL.html,0.0,0.0
-2018-04-07,New York Islanders,,Detroit Red Wings,,,None,,,https://www.hockey-reference.com/boxscores/201804070DET.html,0.0,0.0
-2018-04-07,Vancouver Canucks,,Edmonton Oilers,,,None,,,https://www.hockey-reference.com/boxscores/201804070EDM.html,0.0,0.0
-2018-04-07,Buffalo Sabres,,Florida Panthers,,,None,,,https://www.hockey-reference.com/boxscores/201804070FLA.html,0.0,0.0
-2018-04-07,Dallas Stars,,Los Angeles Kings,,,None,,,https://www.hockey-reference.com/boxscores/201804070LAK.html,0.0,0.0
-2018-04-07,Columbus Blue Jackets,,Nashville Predators,,,None,,,https://www.hockey-reference.com/boxscores/201804070NSH.html,0.0,0.0
-2018-04-07,New York Rangers,,Philadelphia Flyers,,,None,,,https://www.hockey-reference.com/boxscores/201804070PHI.html,0.0,0.0
-2018-04-07,Minnesota Wild,,San Jose Sharks,,,None,,,https://www.hockey-reference.com/boxscores/201804070SJS.html,0.0,0.0
-2018-04-07,Montreal Canadiens,,Toronto Maple Leafs,,,None,,,https://www.hockey-reference.com/boxscores/201804070TOR.html,0.0,0.0
-2018-04-07,Chicago Blackhawks,,Winnipeg Jets,,,None,,,https://www.hockey-reference.com/boxscores/201804070WPG.html,0.0,0.0
-2018-04-07,New Jersey Devils,,Washington Capitals,,,None,,,https://www.hockey-reference.com/boxscores/201804070WSH.html,0.0,0.0
+2018-03-02,Columbus Blue Jackets,2.0,Anaheim Ducks,4.0,,,2:37,,https://www.hockey-reference.com/boxscores/201803020ANA.html,2.0,1032.0
+2018-03-02,New Jersey Devils,1.0,Carolina Hurricanes,3.0,,,2:26,,https://www.hockey-reference.com/boxscores/201803020CAR.html,0.0,1032.0
+2018-03-02,New York Rangers,3.0,Calgary Flames,1.0,,,2:36,,https://www.hockey-reference.com/boxscores/201803020CGY.html,0.0,1032.0
+2018-03-02,Minnesota Wild,1.0,Colorado Avalanche,7.0,,,2:31,,https://www.hockey-reference.com/boxscores/201803020COL.html,1.0,1033.0
+2018-03-02,Buffalo Sabres,1.0,Florida Panthers,4.0,,,2:31,,https://www.hockey-reference.com/boxscores/201803020FLA.html,2.0,1035.0
+2018-03-02,Montreal Canadiens,6.0,New York Islanders,3.0,,,2:27,,https://www.hockey-reference.com/boxscores/201803020NYI.html,2.0,1037.0
+2018-03-02,Nashville Predators,4.0,Vancouver Canucks,3.0,OT,,2:36,,https://www.hockey-reference.com/boxscores/201803020VAN.html,0.0,1037.0
+2018-03-02,Ottawa Senators,5.0,Vegas Golden Knights,4.0,,,2:30,,https://www.hockey-reference.com/boxscores/201803020VEG.html,0.0,1037.0
+2018-03-02,Detroit Red Wings,3.0,Winnipeg Jets,4.0,,,2:33,,https://www.hockey-reference.com/boxscores/201803020WPG.html,2.0,1039.0
+2018-03-03,Ottawa Senators,1.0,Arizona Coyotes,2.0,,,2:23,,https://www.hockey-reference.com/boxscores/201803030ARI.html,0.0,1039.0
+2018-03-03,Montreal Canadiens,1.0,Boston Bruins,2.0,OT,,2:41,,https://www.hockey-reference.com/boxscores/201803030BOS.html,1.0,1040.0
+2018-03-03,St. Louis Blues,2.0,Dallas Stars,3.0,OT,,2:48,,https://www.hockey-reference.com/boxscores/201803030DAL.html,1.0,1041.0
+2018-03-03,New York Rangers,3.0,Edmonton Oilers,2.0,,,2:29,,https://www.hockey-reference.com/boxscores/201803030EDM.html,0.0,1041.0
+2018-03-03,Chicago Blackhawks,5.0,Los Angeles Kings,3.0,,,2:31,,https://www.hockey-reference.com/boxscores/201803030LAK.html,0.0,1041.0
+2018-03-03,New York Islanders,2.0,Pittsburgh Penguins,3.0,OT,,2:31,,https://www.hockey-reference.com/boxscores/201803030PIT.html,0.0,1041.0
+2018-03-03,Philadelphia Flyers,6.0,Tampa Bay Lightning,7.0,SO,,2:49,,https://www.hockey-reference.com/boxscores/201803030TBL.html,2.0,1043.0
+2018-03-03,Toronto Maple Leafs,2.0,Washington Capitals,5.0,,,2:47,,https://www.hockey-reference.com/boxscores/201803030WSH.html,0.0,1043.0
+2018-03-04,Chicago Blackhawks,3.0,Anaheim Ducks,6.0,,,2:24,,https://www.hockey-reference.com/boxscores/201803040ANA.html,3.0,1046.0
+2018-03-04,Winnipeg Jets,3.0,Carolina Hurricanes,2.0,,,2:12,,https://www.hockey-reference.com/boxscores/201803040CAR.html,1.0,1047.0
+2018-03-04,Nashville Predators,4.0,Colorado Avalanche,3.0,OT,,2:33,,https://www.hockey-reference.com/boxscores/201803040COL.html,0.0,1047.0
+2018-03-04,Philadelphia Flyers,1.0,Florida Panthers,4.0,,,2:27,,https://www.hockey-reference.com/boxscores/201803040FLA.html,3.0,1050.0
+2018-03-04,Detroit Red Wings,1.0,Minnesota Wild,4.0,,,2:26,,https://www.hockey-reference.com/boxscores/201803040MIN.html,1.0,1051.0
+2018-03-04,Vegas Golden Knights,3.0,New Jersey Devils,2.0,,,2:31,,https://www.hockey-reference.com/boxscores/201803040NJD.html,1.0,1052.0
+2018-03-04,Columbus Blue Jackets,4.0,San Jose Sharks,2.0,,,2:25,,https://www.hockey-reference.com/boxscores/201803040SJS.html,1.0,1053.0
+2018-03-05,Toronto Maple Leafs,3.0,Buffalo Sabres,5.0,,,2:34,,https://www.hockey-reference.com/boxscores/201803050BUF.html,0.0,1053.0
+2018-03-05,Ottawa Senators,3.0,Dallas Stars,2.0,OT,,2:38,,https://www.hockey-reference.com/boxscores/201803050DAL.html,0.0,1053.0
+2018-03-05,Arizona Coyotes,3.0,Edmonton Oilers,4.0,OT,,2:29,,https://www.hockey-reference.com/boxscores/201803050EDM.html,1.0,1054.0
+2018-03-05,Calgary Flames,3.0,Pittsburgh Penguins,4.0,OT,,2:35,,https://www.hockey-reference.com/boxscores/201803050PIT.html,2.0,1056.0
+2018-03-05,New York Islanders,3.0,Vancouver Canucks,4.0,OT,,2:30,,https://www.hockey-reference.com/boxscores/201803050VAN.html,2.0,1058.0
+2018-03-06,Washington Capitals,0.0,Anaheim Ducks,4.0,,,2:27,,https://www.hockey-reference.com/boxscores/201803060ANA.html,1.0,1059.0
+2018-03-06,Detroit Red Wings,5.0,Boston Bruins,6.0,OT,,2:43,,https://www.hockey-reference.com/boxscores/201803060BOS.html,2.0,1061.0
+2018-03-06,Vegas Golden Knights,1.0,Columbus Blue Jackets,4.0,,,2:35,,https://www.hockey-reference.com/boxscores/201803060CBJ.html,1.0,1062.0
+2018-03-06,Colorado Avalanche,1.0,Chicago Blackhawks,2.0,OT,,2:25,,https://www.hockey-reference.com/boxscores/201803060CHI.html,0.0,1062.0
+2018-03-06,Carolina Hurricanes,2.0,Minnesota Wild,6.0,,,2:29,,https://www.hockey-reference.com/boxscores/201803060MIN.html,0.0,1062.0
+2018-03-06,Montreal Canadiens,4.0,New Jersey Devils,6.0,,,2:36,,https://www.hockey-reference.com/boxscores/201803060NJD.html,2.0,1064.0
+2018-03-06,Dallas Stars,0.0,Nashville Predators,2.0,,,2:35,,https://www.hockey-reference.com/boxscores/201803060NSH.html,2.0,1066.0
+2018-03-06,Winnipeg Jets,3.0,New York Rangers,0.0,,,2:26,,https://www.hockey-reference.com/boxscores/201803060NYR.html,1.0,1067.0
+2018-03-06,Florida Panthers,4.0,Tampa Bay Lightning,5.0,OT,,2:39,,https://www.hockey-reference.com/boxscores/201803060TBL.html,0.0,1067.0
+2018-03-07,Calgary Flames,5.0,Buffalo Sabres,1.0,,,2:20,,https://www.hockey-reference.com/boxscores/201803070BUF.html,1.0,1068.0
+2018-03-07,Pittsburgh Penguins,5.0,Philadelphia Flyers,2.0,,,2:28,,https://www.hockey-reference.com/boxscores/201803070PHI.html,0.0,1068.0
+2018-03-07,Arizona Coyotes,2.0,Vancouver Canucks,1.0,,,2:19,,https://www.hockey-reference.com/boxscores/201803070VAN.html,0.0,1068.0
+2018-03-08,Philadelphia Flyers,2.0,Boston Bruins,3.0,,,2:33,,https://www.hockey-reference.com/boxscores/201803080BOS.html,2.0,1070.0
+2018-03-08,Colorado Avalanche,4.0,Columbus Blue Jackets,5.0,OT,,2:29,,https://www.hockey-reference.com/boxscores/201803080CBJ.html,0.0,1070.0
+2018-03-08,Carolina Hurricanes,3.0,Chicago Blackhawks,2.0,,,2:21,,https://www.hockey-reference.com/boxscores/201803080CHI.html,0.0,1070.0
+2018-03-08,Vegas Golden Knights,4.0,Detroit Red Wings,0.0,,,2:19,,https://www.hockey-reference.com/boxscores/201803080DET.html,0.0,1070.0
+2018-03-08,New York Islanders,1.0,Edmonton Oilers,2.0,SO,,2:42,,https://www.hockey-reference.com/boxscores/201803080EDM.html,0.0,1070.0
+2018-03-08,Montreal Canadiens,0.0,Florida Panthers,5.0,,,2:43,,https://www.hockey-reference.com/boxscores/201803080FLA.html,0.0,1070.0
+2018-03-08,Washington Capitals,1.0,Los Angeles Kings,3.0,,,2:29,,https://www.hockey-reference.com/boxscores/201803080LAK.html,1.0,1071.0
+2018-03-08,Winnipeg Jets,3.0,New Jersey Devils,2.0,,,2:33,,https://www.hockey-reference.com/boxscores/201803080NJD.html,0.0,1071.0
+2018-03-08,Anaheim Ducks,2.0,Nashville Predators,4.0,,,2:25,,https://www.hockey-reference.com/boxscores/201803080NSH.html,0.0,1071.0
+2018-03-08,Buffalo Sabres,4.0,Ottawa Senators,3.0,SO,,2:38,,https://www.hockey-reference.com/boxscores/201803080OTT.html,2.0,1073.0
+2018-03-08,St. Louis Blues,0.0,San Jose Sharks,2.0,,,2:20,,https://www.hockey-reference.com/boxscores/201803080SJS.html,0.0,1073.0
+2018-03-08,New York Rangers,3.0,Tampa Bay Lightning,5.0,,,2:36,,https://www.hockey-reference.com/boxscores/201803080TBL.html,1.0,1074.0
+2018-03-09,Detroit Red Wings,2.0,Columbus Blue Jackets,3.0,,,2:23,,https://www.hockey-reference.com/boxscores/201803090CBJ.html,1.0,1075.0
+2018-03-09,Anaheim Ducks,1.0,Dallas Stars,2.0,,,2:29,,https://www.hockey-reference.com/boxscores/201803090DAL.html,1.0,1076.0
+2018-03-09,Calgary Flames,2.0,Ottawa Senators,1.0,,,2:29,,https://www.hockey-reference.com/boxscores/201803090OTT.html,2.0,1078.0
+2018-03-09,Minnesota Wild,5.0,Vancouver Canucks,2.0,,,2:28,,https://www.hockey-reference.com/boxscores/201803090VAN.html,1.0,1079.0
+2018-03-10,Chicago Blackhawks,4.0,Boston Bruins,7.0,,,2:33,,https://www.hockey-reference.com/boxscores/201803100BOS.html,1.0,1080.0
+2018-03-10,Vegas Golden Knights,2.0,Buffalo Sabres,1.0,SO,,2:41,,https://www.hockey-reference.com/boxscores/201803100BUF.html,0.0,1080.0
+2018-03-10,Arizona Coyotes,2.0,Colorado Avalanche,5.0,,,2:37,,https://www.hockey-reference.com/boxscores/201803100COL.html,1.0,1081.0
+2018-03-10,Minnesota Wild,1.0,Edmonton Oilers,4.0,,,2:22,,https://www.hockey-reference.com/boxscores/201803100EDM.html,1.0,1082.0
+2018-03-10,New York Rangers,3.0,Florida Panthers,4.0,SO,,2:44,,https://www.hockey-reference.com/boxscores/201803100FLA.html,0.0,1082.0
+2018-03-10,St. Louis Blues,7.0,Los Angeles Kings,2.0,,,2:34,,https://www.hockey-reference.com/boxscores/201803100LAK.html,3.0,1085.0
+2018-03-10,New Jersey Devils,3.0,Nashville Predators,2.0,SO,,2:51,,https://www.hockey-reference.com/boxscores/201803100NSH.html,1.0,1086.0
+2018-03-10,Winnipeg Jets,1.0,Philadelphia Flyers,2.0,,,2:23,,https://www.hockey-reference.com/boxscores/201803100PHI.html,0.0,1086.0
+2018-03-10,Washington Capitals,2.0,San Jose Sharks,0.0,,,2:17,,https://www.hockey-reference.com/boxscores/201803100SJS.html,0.0,1086.0
+2018-03-10,Montreal Canadiens,2.0,Tampa Bay Lightning,3.0,SO,,2:46,,https://www.hockey-reference.com/boxscores/201803100TBL.html,0.0,1086.0
+2018-03-10,Pittsburgh Penguins,2.0,Toronto Maple Leafs,5.0,,,2:41,,https://www.hockey-reference.com/boxscores/201803100TOR.html,0.0,1086.0
+2018-03-11,Vancouver Canucks,0.0,Arizona Coyotes,1.0,,,2:22,,https://www.hockey-reference.com/boxscores/201803110ARI.html,0.0,1086.0
+2018-03-11,New York Islanders,5.0,Calgary Flames,2.0,,,2:37,,https://www.hockey-reference.com/boxscores/201803110CGY.html,0.0,1086.0
+2018-03-11,Boston Bruins,1.0,Chicago Blackhawks,3.0,,,2:27,,https://www.hockey-reference.com/boxscores/201803110CHI.html,0.0,1086.0
+2018-03-11,Dallas Stars,1.0,Pittsburgh Penguins,3.0,,,2:29,,https://www.hockey-reference.com/boxscores/201803110PIT.html,1.0,1087.0
+2018-03-12,St. Louis Blues,4.0,Anaheim Ducks,2.0,,,2:16,,https://www.hockey-reference.com/boxscores/201803120ANA.html,0.0,1087.0
+2018-03-12,Montreal Canadiens,2.0,Columbus Blue Jackets,5.0,,,2:25,,https://www.hockey-reference.com/boxscores/201803120CBJ.html,2.0,1089.0
+2018-03-12,Ottawa Senators,5.0,Florida Panthers,3.0,,,2:42,,https://www.hockey-reference.com/boxscores/201803120FLA.html,0.0,1089.0
+2018-03-12,Vancouver Canucks,0.0,Los Angeles Kings,3.0,,,2:28,,https://www.hockey-reference.com/boxscores/201803120LAK.html,0.0,1089.0
+2018-03-12,Carolina Hurricanes,3.0,New York Rangers,6.0,,,2:35,,https://www.hockey-reference.com/boxscores/201803120NYR.html,1.0,1090.0
+2018-03-12,Vegas Golden Knights,3.0,Philadelphia Flyers,2.0,,,2:28,,https://www.hockey-reference.com/boxscores/201803120PHI.html,0.0,1090.0
+2018-03-12,Detroit Red Wings,3.0,San Jose Sharks,5.0,,,2:25,,https://www.hockey-reference.com/boxscores/201803120SJS.html,1.0,1091.0
+2018-03-12,Winnipeg Jets,2.0,Washington Capitals,3.0,OT,,2:43,,https://www.hockey-reference.com/boxscores/201803120WSH.html,3.0,1094.0
+2018-03-13,Los Angeles Kings,3.0,Arizona Coyotes,4.0,SO,,2:52,,https://www.hockey-reference.com/boxscores/201803130ARI.html,1.0,1095.0
+2018-03-13,Boston Bruins,6.0,Carolina Hurricanes,4.0,,,2:40,,https://www.hockey-reference.com/boxscores/201803130CAR.html,1.0,1096.0
+2018-03-13,Edmonton Oilers,0.0,Calgary Flames,1.0,,,2:23,,https://www.hockey-reference.com/boxscores/201803130CGY.html,1.0,1097.0
+2018-03-13,Colorado Avalanche,5.0,Minnesota Wild,1.0,,,2:32,,https://www.hockey-reference.com/boxscores/201803130MIN.html,2.0,1099.0
+2018-03-13,Dallas Stars,2.0,Montreal Canadiens,4.0,,,2:40,,https://www.hockey-reference.com/boxscores/201803130MTL.html,2.0,1101.0
+2018-03-13,Winnipeg Jets,1.0,Nashville Predators,3.0,,,2:47,,https://www.hockey-reference.com/boxscores/201803130NSH.html,4.0,1105.0
+2018-03-13,Ottawa Senators,7.0,Tampa Bay Lightning,4.0,,,2:36,,https://www.hockey-reference.com/boxscores/201803130TBL.html,0.0,1105.0
+2018-03-14,Vancouver Canucks,0.0,Anaheim Ducks,3.0,,,2:26,,https://www.hockey-reference.com/boxscores/201803140ANA.html,1.0,1106.0
+2018-03-14,San Jose Sharks,4.0,Edmonton Oilers,3.0,OT,,2:36,,https://www.hockey-reference.com/boxscores/201803140EDM.html,2.0,1108.0
+2018-03-14,Pittsburgh Penguins,3.0,New York Rangers,4.0,OT,,2:30,,https://www.hockey-reference.com/boxscores/201803140NYR.html,3.0,1111.0
+2018-03-14,Dallas Stars,5.0,Toronto Maple Leafs,6.0,SO,,2:50,,https://www.hockey-reference.com/boxscores/201803140TOR.html,0.0,1111.0
+2018-03-14,New Jersey Devils,8.0,Vegas Golden Knights,3.0,,,2:32,,https://www.hockey-reference.com/boxscores/201803140VEG.html,0.0,1111.0
+2018-03-15,Nashville Predators,3.0,Arizona Coyotes,2.0,,,2:31,,https://www.hockey-reference.com/boxscores/201803150ARI.html,0.0,1111.0
+2018-03-15,Toronto Maple Leafs,5.0,Buffalo Sabres,2.0,,,2:30,,https://www.hockey-reference.com/boxscores/201803150BUF.html,2.0,1113.0
+2018-03-15,Boston Bruins,0.0,Florida Panthers,3.0,,,2:35,,https://www.hockey-reference.com/boxscores/201803150FLA.html,0.0,1113.0
+2018-03-15,Detroit Red Wings,1.0,Los Angeles Kings,4.0,,,2:29,,https://www.hockey-reference.com/boxscores/201803150LAK.html,2.0,1115.0
+2018-03-15,Pittsburgh Penguins,5.0,Montreal Canadiens,3.0,,,2:27,,https://www.hockey-reference.com/boxscores/201803150MTL.html,0.0,1115.0
+2018-03-15,Washington Capitals,7.0,New York Islanders,3.0,,,2:27,,https://www.hockey-reference.com/boxscores/201803150NYI.html,1.0,1116.0
+2018-03-15,Columbus Blue Jackets,5.0,Philadelphia Flyers,3.0,,,2:24,,https://www.hockey-reference.com/boxscores/201803150PHI.html,1.0,1117.0
+2018-03-15,Colorado Avalanche,4.0,St. Louis Blues,1.0,,,2:22,,https://www.hockey-reference.com/boxscores/201803150STL.html,0.0,1117.0
+2018-03-15,Chicago Blackhawks,2.0,Winnipeg Jets,6.0,,,2:29,,https://www.hockey-reference.com/boxscores/201803150WPG.html,0.0,1117.0
+2018-03-16,Detroit Red Wings,2.0,Anaheim Ducks,4.0,,,2:40,,https://www.hockey-reference.com/boxscores/201803160ANA.html,2.0,1119.0
+2018-03-16,San Jose Sharks,7.0,Calgary Flames,4.0,,,2:35,,https://www.hockey-reference.com/boxscores/201803160CGY.html,1.0,1120.0
+2018-03-16,Nashville Predators,4.0,Colorado Avalanche,2.0,,,2:25,,https://www.hockey-reference.com/boxscores/201803160COL.html,1.0,1121.0
+2018-03-16,Dallas Stars,2.0,Ottawa Senators,3.0,OT,,2:35,,https://www.hockey-reference.com/boxscores/201803160OTT.html,1.0,1122.0
+2018-03-16,Minnesota Wild,4.0,Vegas Golden Knights,2.0,,,2:25,,https://www.hockey-reference.com/boxscores/201803160VEG.html,1.0,1123.0
+2018-03-16,New York Islanders,3.0,Washington Capitals,6.0,,,2:40,,https://www.hockey-reference.com/boxscores/201803160WSH.html,2.0,1125.0
+2018-03-17,Minnesota Wild,3.0,Arizona Coyotes,1.0,,,2:25,,https://www.hockey-reference.com/boxscores/201803170ARI.html,0.0,1125.0
+2018-03-17,Chicago Blackhawks,3.0,Buffalo Sabres,5.0,,,2:30,,https://www.hockey-reference.com/boxscores/201803170BUF.html,2.0,1127.0
+2018-03-17,Philadelphia Flyers,4.0,Carolina Hurricanes,2.0,,,2:22,,https://www.hockey-reference.com/boxscores/201803170CAR.html,0.0,1127.0
+2018-03-17,Ottawa Senators,1.0,Columbus Blue Jackets,2.0,,,2:21,,https://www.hockey-reference.com/boxscores/201803170CBJ.html,0.0,1127.0
+2018-03-17,Edmonton Oilers,4.0,Florida Panthers,2.0,,,2:29,,https://www.hockey-reference.com/boxscores/201803170FLA.html,0.0,1127.0
+2018-03-17,New Jersey Devils,3.0,Los Angeles Kings,0.0,,,2:33,,https://www.hockey-reference.com/boxscores/201803170LAK.html,0.0,1127.0
+2018-03-17,New York Rangers,3.0,St. Louis Blues,4.0,OT,,2:36,,https://www.hockey-reference.com/boxscores/201803170STL.html,1.0,1128.0
+2018-03-17,Boston Bruins,3.0,Tampa Bay Lightning,0.0,,,2:22,,https://www.hockey-reference.com/boxscores/201803170TBL.html,0.0,1128.0
+2018-03-17,Montreal Canadiens,0.0,Toronto Maple Leafs,4.0,,,2:33,,https://www.hockey-reference.com/boxscores/201803170TOR.html,1.0,1129.0
+2018-03-17,San Jose Sharks,5.0,Vancouver Canucks,3.0,,,2:32,,https://www.hockey-reference.com/boxscores/201803170VAN.html,0.0,1129.0
+2018-03-18,New Jersey Devils,2.0,Anaheim Ducks,4.0,,,2:34,,https://www.hockey-reference.com/boxscores/201803180ANA.html,0.0,1129.0
+2018-03-18,St. Louis Blues,5.0,Chicago Blackhawks,4.0,OT,,2:43,,https://www.hockey-reference.com/boxscores/201803180CHI.html,1.0,1130.0
+2018-03-18,Detroit Red Wings,1.0,Colorado Avalanche,5.0,,,2:30,,https://www.hockey-reference.com/boxscores/201803180COL.html,0.0,1130.0
+2018-03-18,Carolina Hurricanes,4.0,New York Islanders,3.0,,,2:29,,https://www.hockey-reference.com/boxscores/201803180NYI.html,1.0,1131.0
+2018-03-18,Washington Capitals,3.0,Philadelphia Flyers,6.0,,,2:31,,https://www.hockey-reference.com/boxscores/201803180PHI.html,1.0,1132.0
+2018-03-18,Edmonton Oilers,1.0,Tampa Bay Lightning,3.0,,,2:23,,https://www.hockey-reference.com/boxscores/201803180TBL.html,0.0,1132.0
+2018-03-18,Calgary Flames,0.0,Vegas Golden Knights,4.0,,,2:28,,https://www.hockey-reference.com/boxscores/201803180VEG.html,0.0,1132.0
+2018-03-18,Dallas Stars,2.0,Winnipeg Jets,4.0,,,2:31,,https://www.hockey-reference.com/boxscores/201803180WPG.html,0.0,1132.0
+2018-03-19,Calgary Flames,2.0,Arizona Coyotes,5.0,,,2:30,,https://www.hockey-reference.com/boxscores/201803190ARI.html,0.0,1132.0
+2018-03-19,Columbus Blue Jackets,5.0,Boston Bruins,4.0,OT,,2:34,,https://www.hockey-reference.com/boxscores/201803190BOS.html,1.0,1133.0
+2018-03-19,Nashville Predators,4.0,Buffalo Sabres,0.0,,,2:24,,https://www.hockey-reference.com/boxscores/201803190BUF.html,0.0,1133.0
+2018-03-19,Los Angeles Kings,4.0,Minnesota Wild,3.0,OT,,2:36,,https://www.hockey-reference.com/boxscores/201803190MIN.html,0.0,1133.0
+2018-03-19,Florida Panthers,2.0,Montreal Canadiens,0.0,,,2:31,,https://www.hockey-reference.com/boxscores/201803190MTL.html,0.0,1133.0
+2018-03-20,Edmonton Oilers,7.0,Carolina Hurricanes,3.0,,,2:16,,https://www.hockey-reference.com/boxscores/201803200CAR.html,0.0,1133.0
+2018-03-20,Colorado Avalanche,5.0,Chicago Blackhawks,1.0,,,2:32,,https://www.hockey-reference.com/boxscores/201803200CHI.html,2.0,1135.0
+2018-03-20,Philadelphia Flyers,4.0,Detroit Red Wings,5.0,SO,,2:44,,https://www.hockey-reference.com/boxscores/201803200DET.html,1.0,1136.0
+2018-03-20,Pittsburgh Penguins,1.0,New York Islanders,4.0,,,2:30,,https://www.hockey-reference.com/boxscores/201803200NYI.html,1.0,1137.0
+2018-03-20,Columbus Blue Jackets,5.0,New York Rangers,3.0,,,2:28,,https://www.hockey-reference.com/boxscores/201803200NYR.html,0.0,1137.0
+2018-03-20,Florida Panthers,7.0,Ottawa Senators,2.0,,,2:39,,https://www.hockey-reference.com/boxscores/201803200OTT.html,0.0,1137.0
+2018-03-20,New Jersey Devils,2.0,San Jose Sharks,6.0,,,2:31,,https://www.hockey-reference.com/boxscores/201803200SJS.html,1.0,1138.0
+2018-03-20,Toronto Maple Leafs,3.0,Tampa Bay Lightning,4.0,,,2:28,,https://www.hockey-reference.com/boxscores/201803200TBL.html,0.0,1138.0
+2018-03-20,Vancouver Canucks,1.0,Vegas Golden Knights,4.0,,,2:26,,https://www.hockey-reference.com/boxscores/201803200VEG.html,0.0,1138.0
+2018-03-20,Los Angeles Kings,1.0,Winnipeg Jets,2.0,OT,,2:29,,https://www.hockey-reference.com/boxscores/201803200WPG.html,0.0,1138.0
+2018-03-20,Dallas Stars,3.0,Washington Capitals,4.0,,,2:38,,https://www.hockey-reference.com/boxscores/201803200WSH.html,1.0,1139.0
+2018-03-21,Arizona Coyotes,4.0,Buffalo Sabres,1.0,,,2:32,,https://www.hockey-reference.com/boxscores/201803210BUF.html,2.0,1141.0
+2018-03-21,Anaheim Ducks,4.0,Calgary Flames,0.0,,,2:23,,https://www.hockey-reference.com/boxscores/201803210CGY.html,2.0,1143.0
+2018-03-21,Montreal Canadiens,3.0,Pittsburgh Penguins,5.0,,,2:37,,https://www.hockey-reference.com/boxscores/201803210PIT.html,0.0,1143.0
+2018-03-21,Boston Bruins,1.0,St. Louis Blues,2.0,OT,,2:26,,https://www.hockey-reference.com/boxscores/201803210STL.html,2.0,1145.0
+2018-03-22,Arizona Coyotes,5.0,Carolina Hurricanes,6.0,,,2:37,,https://www.hockey-reference.com/boxscores/201803220CAR.html,2.0,1147.0
+2018-03-22,Florida Panthers,0.0,Columbus Blue Jackets,4.0,,,2:31,,https://www.hockey-reference.com/boxscores/201803220CBJ.html,3.0,1150.0
+2018-03-22,Vancouver Canucks,5.0,Chicago Blackhawks,2.0,,,2:26,,https://www.hockey-reference.com/boxscores/201803220CHI.html,1.0,1151.0
+2018-03-22,Los Angeles Kings,7.0,Colorado Avalanche,1.0,,,2:26,,https://www.hockey-reference.com/boxscores/201803220COL.html,0.0,1151.0
+2018-03-22,Washington Capitals,1.0,Detroit Red Wings,0.0,,,2:31,,https://www.hockey-reference.com/boxscores/201803220DET.html,0.0,1151.0
+2018-03-22,Toronto Maple Leafs,5.0,Nashville Predators,2.0,,,2:33,,https://www.hockey-reference.com/boxscores/201803220NSH.html,0.0,1151.0
+2018-03-22,Tampa Bay Lightning,7.0,New York Islanders,6.0,,,2:33,,https://www.hockey-reference.com/boxscores/201803220NYI.html,0.0,1151.0
+2018-03-22,Edmonton Oilers,6.0,Ottawa Senators,2.0,,,2:28,,https://www.hockey-reference.com/boxscores/201803220OTT.html,1.0,1152.0
+2018-03-22,New York Rangers,3.0,Philadelphia Flyers,4.0,,,2:26,,https://www.hockey-reference.com/boxscores/201803220PHI.html,1.0,1153.0
+2018-03-22,Vegas Golden Knights,1.0,San Jose Sharks,2.0,OT,,2:29,,https://www.hockey-reference.com/boxscores/201803220SJS.html,0.0,1153.0
+2018-03-23,Montreal Canadiens,3.0,Buffalo Sabres,0.0,,,2:21,,https://www.hockey-reference.com/boxscores/201803230BUF.html,2.0,1155.0
+2018-03-23,Boston Bruins,3.0,Dallas Stars,2.0,,,2:34,,https://www.hockey-reference.com/boxscores/201803230DAL.html,1.0,1156.0
+2018-03-23,New Jersey Devils,4.0,Pittsburgh Penguins,3.0,OT,,2:39,,https://www.hockey-reference.com/boxscores/201803230PIT.html,0.0,1156.0
+2018-03-23,Vancouver Canucks,1.0,St. Louis Blues,4.0,,,2:30,,https://www.hockey-reference.com/boxscores/201803230STL.html,1.0,1157.0
+2018-03-23,Anaheim Ducks,2.0,Winnipeg Jets,3.0,OT,,2:34,,https://www.hockey-reference.com/boxscores/201803230WPG.html,0.0,1157.0
+2018-03-24,St. Louis Blues,2.0,Columbus Blue Jackets,1.0,,,2:26,,https://www.hockey-reference.com/boxscores/201803240CBJ.html,1.0,1158.0
+2018-03-24,Vegas Golden Knights,1.0,Colorado Avalanche,2.0,SO,,2:38,,https://www.hockey-reference.com/boxscores/201803240COL.html,1.0,1159.0
+2018-03-24,Los Angeles Kings,2.0,Edmonton Oilers,3.0,,,2:16,,https://www.hockey-reference.com/boxscores/201803240EDM.html,2.0,1161.0
+2018-03-24,Arizona Coyotes,2.0,Florida Panthers,4.0,,,2:33,,https://www.hockey-reference.com/boxscores/201803240FLA.html,2.0,1163.0
+2018-03-24,Nashville Predators,1.0,Minnesota Wild,4.0,,,2:31,,https://www.hockey-reference.com/boxscores/201803240MIN.html,1.0,1164.0
+2018-03-24,Washington Capitals,6.0,Montreal Canadiens,4.0,,,2:37,,https://www.hockey-reference.com/boxscores/201803240MTL.html,1.0,1165.0
+2018-03-24,Tampa Bay Lightning,1.0,New Jersey Devils,2.0,,,2:33,,https://www.hockey-reference.com/boxscores/201803240NJD.html,0.0,1165.0
+2018-03-24,Chicago Blackhawks,3.0,New York Islanders,1.0,,,2:14,,https://www.hockey-reference.com/boxscores/201803240NYI.html,0.0,1165.0
+2018-03-24,Buffalo Sabres,1.0,New York Rangers,5.0,,,2:24,,https://www.hockey-reference.com/boxscores/201803240NYR.html,1.0,1166.0
+2018-03-24,Carolina Hurricanes,5.0,Ottawa Senators,2.0,,,2:28,,https://www.hockey-reference.com/boxscores/201803240OTT.html,0.0,1166.0
+2018-03-24,Calgary Flames,1.0,San Jose Sharks,5.0,,,2:33,,https://www.hockey-reference.com/boxscores/201803240SJS.html,1.0,1167.0
+2018-03-24,Detroit Red Wings,3.0,Toronto Maple Leafs,4.0,,,2:43,,https://www.hockey-reference.com/boxscores/201803240TOR.html,0.0,1167.0
+2018-03-25,Vancouver Canucks,4.0,Dallas Stars,1.0,,,2:22,,https://www.hockey-reference.com/boxscores/201803250DAL.html,0.0,1167.0
+2018-03-25,Anaheim Ducks,5.0,Edmonton Oilers,4.0,OT,,2:30,,https://www.hockey-reference.com/boxscores/201803250EDM.html,0.0,1167.0
+2018-03-25,Boston Bruins,2.0,Minnesota Wild,1.0,OT,,2:33,,https://www.hockey-reference.com/boxscores/201803250MIN.html,0.0,1167.0
+2018-03-25,Philadelphia Flyers,4.0,Pittsburgh Penguins,5.0,OT,,2:27,,https://www.hockey-reference.com/boxscores/201803250PIT.html,0.0,1167.0
+2018-03-25,Nashville Predators,4.0,Winnipeg Jets,5.0,SO,,2:56,,https://www.hockey-reference.com/boxscores/201803250WPG.html,0.0,1167.0
+2018-03-26,Ottawa Senators,1.0,Carolina Hurricanes,4.0,,,2:15,,https://www.hockey-reference.com/boxscores/201803260CAR.html,2.0,1169.0
+2018-03-26,San Jose Sharks,4.0,Chicago Blackhawks,3.0,SO,,2:37,,https://www.hockey-reference.com/boxscores/201803260CHI.html,0.0,1169.0
+2018-03-26,Calgary Flames,0.0,Los Angeles Kings,3.0,,,2:31,,https://www.hockey-reference.com/boxscores/201803260LAK.html,0.0,1169.0
+2018-03-26,Detroit Red Wings,2.0,Montreal Canadiens,4.0,,,2:30,,https://www.hockey-reference.com/boxscores/201803260MTL.html,1.0,1170.0
+2018-03-26,Florida Panthers,3.0,New York Islanders,0.0,,,2:45,,https://www.hockey-reference.com/boxscores/201803260NYI.html,0.0,1170.0
+2018-03-26,Washington Capitals,4.0,New York Rangers,2.0,,,2:26,,https://www.hockey-reference.com/boxscores/201803260NYR.html,1.0,1171.0
+2018-03-26,Arizona Coyotes,4.0,Tampa Bay Lightning,1.0,,,2:31,,https://www.hockey-reference.com/boxscores/201803260TBL.html,2.0,1173.0
+2018-03-26,Buffalo Sabres,3.0,Toronto Maple Leafs,2.0,,,2:23,,https://www.hockey-reference.com/boxscores/201803260TOR.html,0.0,1173.0
+2018-03-26,Colorado Avalanche,1.0,Vegas Golden Knights,4.0,,,2:27,,https://www.hockey-reference.com/boxscores/201803260VEG.html,0.0,1173.0
+2018-03-27,Philadelphia Flyers,2.0,Dallas Stars,3.0,OT,,2:36,,https://www.hockey-reference.com/boxscores/201803270DAL.html,1.0,1174.0
+2018-03-27,Pittsburgh Penguins,2.0,Detroit Red Wings,5.0,,,2:29,,https://www.hockey-reference.com/boxscores/201803270DET.html,1.0,1175.0
+2018-03-27,Columbus Blue Jackets,7.0,Edmonton Oilers,3.0,,,2:33,,https://www.hockey-reference.com/boxscores/201803270EDM.html,0.0,1175.0
+2018-03-27,Carolina Hurricanes,3.0,New Jersey Devils,4.0,,,2:33,,https://www.hockey-reference.com/boxscores/201803270NJD.html,0.0,1175.0
+2018-03-27,Minnesota Wild,1.0,Nashville Predators,2.0,SO,,2:47,,https://www.hockey-reference.com/boxscores/201803270NSH.html,0.0,1175.0
+2018-03-27,New York Islanders,4.0,Ottawa Senators,3.0,,,2:26,,https://www.hockey-reference.com/boxscores/201803270OTT.html,0.0,1175.0
+2018-03-27,San Jose Sharks,2.0,St. Louis Blues,3.0,OT,,2:29,,https://www.hockey-reference.com/boxscores/201803270STL.html,0.0,1175.0
+2018-03-27,Anaheim Ducks,1.0,Vancouver Canucks,4.0,,,2:22,,https://www.hockey-reference.com/boxscores/201803270VAN.html,0.0,1175.0
+2018-03-27,Boston Bruins,4.0,Winnipeg Jets,5.0,SO,,3:16,,https://www.hockey-reference.com/boxscores/201803270WPG.html,0.0,1175.0
+2018-03-28,Philadelphia Flyers,2.0,Colorado Avalanche,1.0,,,2:17,,https://www.hockey-reference.com/boxscores/201803280COL.html,0.0,1175.0
+2018-03-28,Florida Panthers,3.0,Toronto Maple Leafs,4.0,,,2:34,,https://www.hockey-reference.com/boxscores/201803280TOR.html,1.0,1176.0
+2018-03-28,Arizona Coyotes,3.0,Vegas Golden Knights,2.0,,,2:28,,https://www.hockey-reference.com/boxscores/201803280VEG.html,1.0,1177.0
+2018-03-28,New York Rangers,2.0,Washington Capitals,3.0,OT,,2:37,,https://www.hockey-reference.com/boxscores/201803280WSH.html,1.0,1178.0
+2018-03-29,Tampa Bay Lightning,2.0,Boston Bruins,4.0,,,2:50,,https://www.hockey-reference.com/boxscores/201803290BOS.html,2.0,1180.0
+2018-03-29,Detroit Red Wings,6.0,Buffalo Sabres,3.0,,,2:33,,https://www.hockey-reference.com/boxscores/201803290BUF.html,1.0,1181.0
+2018-03-29,Columbus Blue Jackets,5.0,Calgary Flames,1.0,,,2:26,,https://www.hockey-reference.com/boxscores/201803290CGY.html,1.0,1182.0
+2018-03-29,Winnipeg Jets,2.0,Chicago Blackhawks,6.0,,,2:24,,https://www.hockey-reference.com/boxscores/201803290CHI.html,1.0,1183.0
+2018-03-29,Arizona Coyotes,2.0,Los Angeles Kings,4.0,,,2:29,,https://www.hockey-reference.com/boxscores/201803290LAK.html,0.0,1183.0
+2018-03-29,Dallas Stars,2.0,Minnesota Wild,5.0,,,2:49,,https://www.hockey-reference.com/boxscores/201803290MIN.html,1.0,1184.0
+2018-03-29,Pittsburgh Penguins,4.0,New Jersey Devils,3.0,OT,,2:34,,https://www.hockey-reference.com/boxscores/201803290NJD.html,1.0,1185.0
+2018-03-29,San Jose Sharks,3.0,Nashville Predators,5.0,,,2:41,,https://www.hockey-reference.com/boxscores/201803290NSH.html,1.0,1186.0
+2018-03-29,Florida Panthers,2.0,Ottawa Senators,3.0,OT,,2:33,,https://www.hockey-reference.com/boxscores/201803290OTT.html,2.0,1188.0
+2018-03-29,Edmonton Oilers,1.0,Vancouver Canucks,2.0,,,2:20,,https://www.hockey-reference.com/boxscores/201803290VAN.html,0.0,1188.0
+2018-03-30,Los Angeles Kings,1.0,Anaheim Ducks,2.0,OT,,2:32,,https://www.hockey-reference.com/boxscores/201803300ANA.html,0.0,1188.0
+2018-03-30,Chicago Blackhawks,0.0,Colorado Avalanche,5.0,,,2:25,,https://www.hockey-reference.com/boxscores/201803300COL.html,0.0,1188.0
+2018-03-30,Toronto Maple Leafs,5.0,New York Islanders,4.0,,,2:29,,https://www.hockey-reference.com/boxscores/201803300NYI.html,1.0,1189.0
+2018-03-30,Tampa Bay Lightning,7.0,New York Rangers,3.0,,,2:43,,https://www.hockey-reference.com/boxscores/201803300NYR.html,0.0,1189.0
+2018-03-30,St. Louis Blues,3.0,Vegas Golden Knights,4.0,OT,,2:30,,https://www.hockey-reference.com/boxscores/201803300VEG.html,1.0,1190.0
+2018-03-30,Carolina Hurricanes,4.0,Washington Capitals,1.0,,,2:22,,https://www.hockey-reference.com/boxscores/201803300WSH.html,1.0,1191.0
+2018-03-31,St. Louis Blues,0.0,Arizona Coyotes,6.0,,,2:39,,https://www.hockey-reference.com/boxscores/201803310ARI.html,1.0,1192.0
+2018-03-31,Florida Panthers,1.0,Boston Bruins,5.0,,,2:43,,https://www.hockey-reference.com/boxscores/201803310BOS.html,0.0,1192.0
+2018-03-31,New York Rangers,2.0,Carolina Hurricanes,1.0,,,2:28,,https://www.hockey-reference.com/boxscores/201803310CAR.html,1.0,1193.0
+2018-03-31,Edmonton Oilers,2.0,Calgary Flames,3.0,,,2:33,,https://www.hockey-reference.com/boxscores/201803310CGY.html,3.0,1196.0
+2018-03-31,Minnesota Wild,1.0,Dallas Stars,4.0,,,2:32,,https://www.hockey-reference.com/boxscores/201803310DAL.html,0.0,1196.0
+2018-03-31,Ottawa Senators,0.0,Detroit Red Wings,2.0,,,2:31,,https://www.hockey-reference.com/boxscores/201803310DET.html,3.0,1199.0
+2018-03-31,New York Islanders,3.0,New Jersey Devils,4.0,,,2:36,,https://www.hockey-reference.com/boxscores/201803310NJD.html,0.0,1199.0
+2018-03-31,Buffalo Sabres,7.0,Nashville Predators,4.0,,,2:38,,https://www.hockey-reference.com/boxscores/201803310NSH.html,3.0,1202.0
+2018-03-31,Montreal Canadiens,2.0,Pittsburgh Penguins,5.0,,,2:26,,https://www.hockey-reference.com/boxscores/201803310PIT.html,2.0,1204.0
+2018-03-31,Winnipeg Jets,3.0,Toronto Maple Leafs,1.0,,,2:31,,https://www.hockey-reference.com/boxscores/201803310TOR.html,0.0,1204.0
+2018-03-31,Columbus Blue Jackets,4.0,Vancouver Canucks,5.0,OT,,2:32,,https://www.hockey-reference.com/boxscores/201803310VAN.html,0.0,1204.0
+2018-03-31,San Jose Sharks,2.0,Vegas Golden Knights,3.0,,,2:38,,https://www.hockey-reference.com/boxscores/201803310VEG.html,0.0,1204.0
+2018-04-01,Colorado Avalanche,3.0,Anaheim Ducks,4.0,OT,,2:41,,https://www.hockey-reference.com/boxscores/201804010ANA.html,0.0,1204.0
+2018-04-01,New Jersey Devils,2.0,Montreal Canadiens,1.0,,,2:34,,https://www.hockey-reference.com/boxscores/201804010MTL.html,1.0,1205.0
+2018-04-01,Boston Bruins,3.0,Philadelphia Flyers,4.0,OT,,2:29,,https://www.hockey-reference.com/boxscores/201804010PHI.html,1.0,1206.0
+2018-04-01,Washington Capitals,3.0,Pittsburgh Penguins,1.0,,,2:39,,https://www.hockey-reference.com/boxscores/201804010PIT.html,3.0,1209.0
+2018-04-01,Nashville Predators,4.0,Tampa Bay Lightning,1.0,,,2:24,,https://www.hockey-reference.com/boxscores/201804010TBL.html,0.0,1209.0
+2018-04-02,Carolina Hurricanes,2.0,Florida Panthers,3.0,,,2:22,,https://www.hockey-reference.com/boxscores/201804020FLA.html,0.0,1209.0
+2018-04-02,Colorado Avalanche,1.0,Los Angeles Kings,3.0,,,2:29,,https://www.hockey-reference.com/boxscores/201804020LAK.html,1.0,1210.0
+2018-04-02,Edmonton Oilers,0.0,Minnesota Wild,3.0,,,2:26,,https://www.hockey-reference.com/boxscores/201804020MIN.html,2.0,1212.0
+2018-04-02,Winnipeg Jets,6.0,Ottawa Senators,5.0,,,2:42,,https://www.hockey-reference.com/boxscores/201804020OTT.html,0.0,1212.0
+2018-04-02,Washington Capitals,4.0,St. Louis Blues,2.0,,,2:30,,https://www.hockey-reference.com/boxscores/201804020STL.html,1.0,1213.0
+2018-04-02,Buffalo Sabres,2.0,Toronto Maple Leafs,5.0,,,2:32,,https://www.hockey-reference.com/boxscores/201804020TOR.html,0.0,1213.0
+2018-04-03,Detroit Red Wings,4.0,Columbus Blue Jackets,5.0,OT,,2:42,,https://www.hockey-reference.com/boxscores/201804030CBJ.html,1.0,1214.0
+2018-04-03,Arizona Coyotes,4.0,Calgary Flames,1.0,,,2:34,,https://www.hockey-reference.com/boxscores/201804030CGY.html,3.0,1217.0
+2018-04-03,Nashville Predators,1.0,Florida Panthers,2.0,,,2:42,,https://www.hockey-reference.com/boxscores/201804030FLA.html,0.0,1217.0
+2018-04-03,Winnipeg Jets,5.0,Montreal Canadiens,4.0,OT,,2:38,,https://www.hockey-reference.com/boxscores/201804030MTL.html,3.0,1220.0
+2018-04-03,New York Rangers,2.0,New Jersey Devils,5.0,,,2:32,,https://www.hockey-reference.com/boxscores/201804030NJD.html,1.0,1221.0
+2018-04-03,Philadelphia Flyers,4.0,New York Islanders,5.0,,,2:32,,https://www.hockey-reference.com/boxscores/201804030NYI.html,0.0,1221.0
+2018-04-03,Dallas Stars,4.0,San Jose Sharks,2.0,,,2:24,,https://www.hockey-reference.com/boxscores/201804030SJS.html,0.0,1221.0
+2018-04-03,Boston Bruins,0.0,Tampa Bay Lightning,4.0,,,2:30,,https://www.hockey-reference.com/boxscores/201804030TBL.html,0.0,1221.0
+2018-04-03,Vegas Golden Knights,5.0,Vancouver Canucks,4.0,SO,,2:51,,https://www.hockey-reference.com/boxscores/201804030VAN.html,0.0,1221.0
+2018-04-04,Minnesota Wild,1.0,Anaheim Ducks,3.0,,,2:25,,https://www.hockey-reference.com/boxscores/201804040ANA.html,0.0,1221.0
+2018-04-04,Ottawa Senators,4.0,Buffalo Sabres,2.0,,,2:26,,https://www.hockey-reference.com/boxscores/201804040BUF.html,0.0,1221.0
+2018-04-04,Chicago Blackhawks,4.0,St. Louis Blues,3.0,,,2:31,,https://www.hockey-reference.com/boxscores/201804040STL.html,0.0,1221.0
+2018-04-05,Pittsburgh Penguins,5.0,Columbus Blue Jackets,4.0,OT,,2:38,,https://www.hockey-reference.com/boxscores/201804050CBJ.html,0.0,1221.0
+2018-04-05,Montreal Canadiens,4.0,Detroit Red Wings,3.0,,,2:27,,https://www.hockey-reference.com/boxscores/201804050DET.html,0.0,1221.0
+2018-04-05,Vegas Golden Knights,3.0,Edmonton Oilers,4.0,,,2:20,,https://www.hockey-reference.com/boxscores/201804050EDM.html,0.0,1221.0
+2018-04-05,Boston Bruins,2.0,Florida Panthers,3.0,,,2:34,,https://www.hockey-reference.com/boxscores/201804050FLA.html,0.0,1221.0
+2018-04-05,Minnesota Wild,4.0,Los Angeles Kings,5.0,OT,,2:41,,https://www.hockey-reference.com/boxscores/201804050LAK.html,1.0,1222.0
+2018-04-05,Toronto Maple Leafs,1.0,New Jersey Devils,2.0,,,2:29,,https://www.hockey-reference.com/boxscores/201804050NJD.html,0.0,1222.0
+2018-04-05,New York Rangers,1.0,New York Islanders,2.0,,,2:16,,https://www.hockey-reference.com/boxscores/201804050NYI.html,2.0,1224.0
+2018-04-05,Carolina Hurricanes,3.0,Philadelphia Flyers,4.0,,,2:28,,https://www.hockey-reference.com/boxscores/201804050PHI.html,1.0,1225.0
+2018-04-05,Colorado Avalanche,2.0,San Jose Sharks,4.0,,,2:23,,https://www.hockey-reference.com/boxscores/201804050SJS.html,0.0,1225.0
+2018-04-05,Arizona Coyotes,3.0,Vancouver Canucks,4.0,OT,,2:30,,https://www.hockey-reference.com/boxscores/201804050VAN.html,1.0,1226.0
+2018-04-05,Calgary Flames,1.0,Winnipeg Jets,2.0,,,2:23,,https://www.hockey-reference.com/boxscores/201804050WPG.html,1.0,1227.0
+2018-04-05,Nashville Predators,4.0,Washington Capitals,3.0,,,2:37,,https://www.hockey-reference.com/boxscores/201804050WSH.html,2.0,1229.0
+2018-04-06,Dallas Stars,3,Anaheim Ducks,5,,,2:24,,https://www.hockey-reference.com/boxscores/201804060ANA.html,1.0,1230.0
+2018-04-06,St. Louis Blues,4,Chicago Blackhawks,1,,,2:24,,https://www.hockey-reference.com/boxscores/201804060CHI.html,2.0,1232.0
+2018-04-06,Ottawa Senators,0,Pittsburgh Penguins,4,,,2:26,,https://www.hockey-reference.com/boxscores/201804060PIT.html,2.0,1234.0
+2018-04-06,Buffalo Sabres,5,Tampa Bay Lightning,7,,,2:26,,https://www.hockey-reference.com/boxscores/201804060TBL.html,0.0,1234.0
+2018-04-07,Anaheim Ducks,3,Arizona Coyotes,0,,,2:26,,https://www.hockey-reference.com/boxscores/201804070ARI.html,1.0,1235.0
+2018-04-07,Ottawa Senators,2,Boston Bruins,5,,,2:27,,https://www.hockey-reference.com/boxscores/201804070BOS.html,0.0,1235.0
+2018-04-07,Tampa Bay Lightning,2,Carolina Hurricanes,3,OT,,2:40,,https://www.hockey-reference.com/boxscores/201804070CAR.html,0.0,1235.0
+2018-04-07,Vegas Golden Knights,1,Calgary Flames,7,,,2:30,,https://www.hockey-reference.com/boxscores/201804070CGY.html,1.0,1236.0
+2018-04-07,St. Louis Blues,2,Colorado Avalanche,5,,,2:52,,https://www.hockey-reference.com/boxscores/201804070COL.html,2.0,1238.0
+2018-04-07,New York Islanders,4,Detroit Red Wings,3,OT,,2:28,,https://www.hockey-reference.com/boxscores/201804070DET.html,0.0,1238.0
+2018-04-07,Vancouver Canucks,2,Edmonton Oilers,3,SO,,2:44,,https://www.hockey-reference.com/boxscores/201804070EDM.html,2.0,1240.0
+2018-04-07,Buffalo Sabres,3,Florida Panthers,4,,,2:33,,https://www.hockey-reference.com/boxscores/201804070FLA.html,0.0,1240.0
+2018-04-07,Dallas Stars,4,Los Angeles Kings,2,,,2:25,,https://www.hockey-reference.com/boxscores/201804070LAK.html,1.0,1241.0
+2018-04-07,Columbus Blue Jackets,2,Nashville Predators,4,,,2:28,,https://www.hockey-reference.com/boxscores/201804070NSH.html,0.0,1241.0
+2018-04-07,New York Rangers,0,Philadelphia Flyers,5,,,2:22,,https://www.hockey-reference.com/boxscores/201804070PHI.html,0.0,1241.0
+2018-04-07,Minnesota Wild,6,San Jose Sharks,3,,,2:23,,https://www.hockey-reference.com/boxscores/201804070SJS.html,1.0,1242.0
+2018-04-07,Montreal Canadiens,2,Toronto Maple Leafs,4,,,2:34,,https://www.hockey-reference.com/boxscores/201804070TOR.html,2.0,1244.0
+2018-04-07,Chicago Blackhawks,1,Winnipeg Jets,4,,,2:22,,https://www.hockey-reference.com/boxscores/201804070WPG.html,3.0,1247.0
+2018-04-07,New Jersey Devils,3,Washington Capitals,5,,,2:24,,https://www.hockey-reference.com/boxscores/201804070WSH.html,1.0,1248.0
