@@ -1,2 +1,2 @@
-# SlashTracking
-A code for tracking and analyzing slashing calls in the NHL
+# PenaltyTracking
+A code for tracking penalty calls in the NHL. Adding updated code for team specific tracking as well as plotting options.
